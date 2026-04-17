@@ -1,0 +1,4 @@
+This is the best website on this planet.Please dont argue with
+    me on this one.
+
+This is the another content.This is being append to the file.
